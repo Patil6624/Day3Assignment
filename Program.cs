@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Day_4_Practice_EmployeeWage
+namespace Day_3_Practice_EmployeeWage
 {
     class Program
     {
